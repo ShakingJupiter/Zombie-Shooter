@@ -1,0 +1,7 @@
+surface = width, height
+==========================
+window = 800,600
+player = 50,50
+zombie = 50,50
+boss zombie = 150,150
+bullet = 20,8
